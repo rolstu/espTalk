@@ -2,6 +2,7 @@
 ## Esp32 contacting each other
 **1. Install ESP32 Board Support**
     Ensure you have the ESP32 board support installed in the Arduino IDE.
+    
 **2. Locate the link**
     Go to File > Preferences and add the following URL to the “Additional Board Manager URLs” field:
 ```bash
