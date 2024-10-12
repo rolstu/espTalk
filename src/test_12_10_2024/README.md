@@ -52,7 +52,8 @@ Changing baud rate to 921600
 Changed.
 Enabling default SPI flash mode...
 Configuring flash size...
-d to execute script 'esptool' due to unhandled exception!```
+d to execute script 'esptool' due to unhandled exception!
+```
 
 The error you are encountering suggests that the ESP32 is in Secure Download Mode, which might prevent the ESP from being programmed normally. Here's how you can troubleshoot and resolve this:
 
